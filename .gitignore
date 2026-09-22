@@ -1,0 +1,34 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secrets*
+*token*
+
+# Raw captures and temporary research data
+/MARRIOTT_SCOPE.md
+*.har
+*.pcap
+*.pcapng
+*.log
+*.tmp
+*.html
+*.jsonl
+captures/
+evidence/
+
+# Tool and platform files
+__pycache__/
+.venv/
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
