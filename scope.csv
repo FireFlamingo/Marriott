@@ -1,0 +1,111 @@
+identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at
+latinoamerica.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:36:32 UTC,2026-06-11 17:36:32 UTC
+efast.marriott.com,URL,,true,true,high,high,high,high,,2025-10-24 18:50:16 UTC,2025-10-24 18:50:16 UTC
+www.members.marriott.com,URL,,true,true,low,low,low,low,,2025-10-27 13:48:13 UTC,2025-10-27 13:48:13 UTC
+globaldesign.marriott.com/*,WILDCARD,,false,false,,,,none,,2026-07-14 18:16:33 UTC,2026-07-14 18:16:33 UTC
+splunk-phantom-nlb.marriott.com,URL,,true,true,low,low,low,low,,2025-10-27 13:48:59 UTC,2025-10-27 13:48:59 UTC
+marriottfranchisetransactions.marriott.com,URL,"",true,true,high,high,high,critical,,2021-09-01 16:08:41 UTC,2023-05-12 09:02:19 UTC
+oasisprod.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:22:58 UTC,2025-10-27 14:22:58 UTC
+joinmarriottbonvoy.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:49:11 UTC,2025-10-27 14:49:11 UTC
+ofhub.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:44:11 UTC,2026-06-11 17:44:11 UTC
+*moxymix*.marriott.com,URL,Any domains or infrastructure pertaining to Moxy Mix projects are OOS until further notice. Thanks for working with our policy changes!,false,false,,,,critical,,2022-03-18 14:21:10 UTC,2023-01-24 12:43:59 UTC
+sso.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:06:40 UTC,2023-01-24 12:43:56 UTC
+clmagtest.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:42:15 UTC,2026-06-11 17:42:15 UTC
+reservations.all-inclusive.marriott.com,URL,"",true,true,high,high,high,critical,,2021-09-14 14:41:52 UTC,2023-01-24 12:43:57 UTC
+marrtool.com,URL,"",true,true,high,high,high,critical,,2021-09-14 17:55:30 UTC,2023-01-24 12:43:57 UTC
+mi.bookmarriott.com,URL,"",false,false,medium,medium,medium,critical,,2022-10-21 15:06:47 UTC,2023-04-10 17:31:19 UTC
+jobs.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:07:22 UTC,2023-01-24 12:43:56 UTC
+vacations.marriott.com,URL,We do not own this site. ,false,false,,,,critical,,2021-07-27 22:03:28 UTC,2023-01-24 12:43:58 UTC
+Phoenix Platform,OTHER,"",false,false,high,high,high,critical,,2024-01-17 15:22:39 UTC,2024-01-17 15:22:39 UTC
+mgs.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:06:59 UTC,2023-01-24 12:43:56 UTC
+*.ritzcarlton.com,OTHER,"",false,false,medium,medium,medium,critical,,2018-09-10 20:58:50 UTC,2025-12-30 19:14:09 UTC
+https://dcfgatewaytst1.marriott.com/,URL,"",true,true,high,low,low,critical,,2021-10-01 23:07:07 UTC,2023-12-14 12:48:14 UTC
+*.apigatewayc.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 19:13:51 UTC,2025-10-24 19:13:51 UTC
+marriott.tech,URL,,false,false,low,medium,low,high,,2023-04-28 20:10:40 UTC,2023-07-13 09:23:47 UTC
+eidhelp.marriott.com,URL,,true,true,high,high,high,high,,2025-10-24 18:51:46 UTC,2025-10-24 18:51:46 UTC
+moments.marriott.com,URL,,true,true,low,low,low,low,,2025-10-27 13:42:46 UTC,2025-10-27 13:42:46 UTC
+ssm-marriottms.saviyntcloud.com,URL,,false,false,high,high,high,high,,2025-10-27 14:58:46 UTC,2026-07-21 14:05:22 UTC
+Not-Listed Assets,OTHER,## Any asset *not* listed in-scope is *ineligible* for bounty and will be marked N/A,false,false,low,low,medium,high,,2021-09-01 16:12:17 UTC,2023-08-29 17:59:07 UTC
+http://www.shopmarriott.com,URL,Marriott Store,true,true,low,low,low,medium,,2023-01-31 16:18:52 UTC,2023-07-13 09:22:02 UTC
+cache.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 13:57:44 UTC,2025-10-27 13:57:44 UTC
+milux.marriott.com,URL,"",false,false,low,none,none,low,,2022-08-12 17:59:40 UTC,2023-01-31 16:29:25 UTC
+*.apigwc.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 19:27:22 UTC,2025-10-24 19:27:22 UTC
+hotel-deals.marriott.com,URL,"",true,true,low,low,low,medium,,2021-09-01 16:09:47 UTC,2023-01-24 12:43:58 UTC
+fe.emergingtech-btsales.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:34:39 UTC,2026-06-11 17:34:39 UTC
+travelagents.marriott.com/,URL,"",true,true,high,medium,medium,high,,2024-03-08 17:01:20 UTC,2024-03-08 17:06:57 UTC
+*.ritzcarltonyachtcollection.com,URL,We need to handle some internal ownership details until we can support this asset as part of our scope. Please do not test it. ,false,false,medium,medium,medium,critical,,2022-11-01 16:25:12 UTC,2023-01-24 12:43:59 UTC
+contentportal.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:05:57 UTC,2025-10-27 14:05:57 UTC
+homes-and-villas.marriott.com,URL,"",true,true,high,high,high,critical,,2020-05-18 18:37:24 UTC,2023-05-12 09:02:19 UTC
+vacation.marriott.com,URL,,true,true,low,low,low,low,,2025-10-27 13:39:29 UTC,2025-10-27 13:39:29 UTC
+meetings-excellence.marriott.com,URL,,false,false,medium,high,high,critical,,2023-02-27 19:56:21 UTC,2023-07-13 09:22:07 UTC
+www.github.com,URL,We do not own this domain but we wish to receive notice of repositories on here that may contain our data. ,false,false,none,none,none,none,,2022-12-05 15:25:33 UTC,2023-03-01 14:34:24 UTC
+www.marriott.com,URL,"",true,true,high,high,high,critical,"Akamai DDOS, Amazon Web Services, F5 BIG-IP ASM, Kubernetes, Nginx, Ping Identity",2022-01-19 19:38:08 UTC,2024-06-27 14:59:30 UTC
+luxurybrands.marriott.com,URL,"",false,false,low,none,none,low,,2022-08-12 18:00:00 UTC,2023-01-31 16:29:25 UTC
+*uat.marriott.com,URL,user acceptance testing environments for marriott.com products . ,true,true,low,low,medium,high,,2022-11-02 15:28:06 UTC,2023-07-25 18:59:07 UTC
+*.artifactory.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 19:40:44 UTC,2025-10-24 19:40:44 UTC
+*.mgs.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 19:01:11 UTC,2025-10-24 19:01:11 UTC
+uber.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:38:41 UTC,2025-10-27 14:38:41 UTC
+joinrewards.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:21:00 UTC,2025-10-27 14:21:00 UTC
+esupplier.marriott.com,URL,,true,true,high,high,high,critical,,2025-10-24 14:37:56 UTC,2025-10-24 14:37:56 UTC
+moments.marriottbonvoy.com,URL,"",true,true,high,medium,medium,critical,,2024-03-07 16:34:53 UTC,2024-03-07 16:34:53 UTC
+*.sba.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-27 13:36:26 UTC,2025-10-27 13:36:26 UTC
+*.dcfgateway.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 18:22:19 UTC,2025-10-24 18:22:19 UTC
+hotelexcellence.marriott.com,URL,,false,false,high,high,high,critical,,2023-02-27 19:42:30 UTC,2023-07-13 09:22:07 UTC
+gdstest.marriott.com,URL,,false,false,,,,none,,2026-07-14 18:01:52 UTC,2026-07-14 18:01:52 UTC
+university.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:39:25 UTC,2025-10-27 14:39:25 UTC
+ocijlbex1prd.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:23:45 UTC,2025-10-27 14:23:45 UTC
+*.gateway.marriott.com,WILDCARD,,true,true,high,high,high,high,,2025-10-24 19:04:16 UTC,2025-10-24 19:04:16 UTC
+channel-portal.homes-and-villas.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 13:58:11 UTC,2025-10-27 13:58:11 UTC
+gateway*.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:08:09 UTC,2023-01-24 12:43:57 UTC
+help.marriott.com,URL,"",true,true,high,high,high,critical,,2024-03-07 16:39:32 UTC,2024-03-07 16:39:32 UTC
+dcfgateway*.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:08:22 UTC,2023-12-14 12:50:22 UTC
+llmgw.codefest2026.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:33:19 UTC,2026-06-11 17:33:19 UTC
+https://gatewaydsaptst1.marriott.com/,URL,"",true,true,medium,medium,medium,critical,,2021-10-01 23:07:08 UTC,2023-12-14 12:47:46 UTC
+www.msg-gateway.marriott.com,URL,,false,false,medium,medium,medium,high,,2025-06-16 18:03:41 UTC,2025-06-16 18:03:41 UTC
+ci-propertyconversionportal.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:04:58 UTC,2025-10-27 14:04:58 UTC
+lawmanager.marriott.com,URL,"",true,true,,,,critical,,2021-09-01 16:08:52 UTC,2023-01-24 12:43:57 UTC
+bilt.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:39:59 UTC,2025-10-27 14:39:59 UTC
+join.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:13:58 UTC,2025-10-27 14:13:58 UTC
+mds.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:27:54 UTC,2025-10-27 14:27:54 UTC
+towneplacesuites.marriott.com,URL,This is a vanity site ,false,false,high,high,high,critical,,2021-08-03 15:44:11 UTC,2023-01-24 12:43:59 UTC
+eswebdev.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:43:12 UTC,2026-06-11 17:43:12 UTC
+app-insiders.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:26:06 UTC,2025-10-27 14:26:06 UTC
+https://gatewaydsaptst2.marriott.com/,URL,"",true,true,medium,low,low,high,,2021-10-01 23:07:09 UTC,2023-12-14 12:46:43 UTC
+bsp.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 13:57:14 UTC,2025-10-27 13:57:14 UTC
+*gateway-apc.marriott.com,WILDCARD,,true,true,high,high,high,critical,,2025-10-24 14:29:29 UTC,2025-10-24 14:29:29 UTC
+gifts.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:47:46 UTC,2025-10-27 14:47:46 UTC
+www.travelagents.marriott.com,URL,"",false,false,,,,critical,,2021-09-01 16:09:04 UTC,2023-01-24 12:43:59 UTC
+www.ritzcarlton.com/,URL,This is the flagship website of one of our luxury brands that we acquired several years ago. ,true,true,medium,low,low,high,,2021-10-01 23:07:09 UTC,2023-01-31 16:38:44 UTC
+meetmarriottbonvoy.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:31:53 UTC,2025-10-27 14:31:53 UTC
+springhillsuites.marriott.com,URL,"",false,false,low,medium,low,high,,2021-08-03 15:46:34 UTC,2023-01-31 16:29:25 UTC
+smetrics.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 13:37:29 UTC,2025-10-27 13:37:29 UTC
+https://gatewaydsapdev2.marriott.com/,URL,"",true,true,high,high,high,critical,,2021-10-01 23:07:07 UTC,2023-12-14 12:48:56 UTC
+cpp.marriott.com,URL,"",true,true,high,high,high,critical,,2021-09-17 15:12:53 UTC,2023-01-24 12:43:57 UTC
+giftcards.marriott.com,URL,"",false,true,none,low,none,low,,2023-01-31 15:59:24 UTC,2024-01-12 17:36:27 UTC
+owa.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:24:24 UTC,2025-10-27 14:24:24 UTC
+www.giving.marriott.com,URL,,true,true,low,low,low,low,,2025-10-27 13:43:15 UTC,2025-10-27 13:43:15 UTC
+gis.marriott.com,URL,,false,false,none,none,none,none,,2026-06-11 17:42:46 UTC,2026-06-11 17:42:46 UTC
+psp.marriott.com,URL,,true,true,high,high,high,critical,,2025-06-16 18:02:31 UTC,2025-06-16 18:02:31 UTC
+careers.marriott.com,URL,"",true,true,medium,medium,medium,critical,,2021-09-01 16:06:23 UTC,2025-06-03 14:34:37 UTC
+device.marriott.com,URL,,true,true,high,high,high,high,,2025-10-27 13:26:24 UTC,2025-10-27 13:26:24 UTC
+contentportalauth.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:08:23 UTC,2025-10-27 14:08:23 UTC
+auth-apc.marriott.com,URL,,true,true,high,high,high,high,,2025-10-27 13:20:45 UTC,2025-10-27 13:20:45 UTC
+455004730,APPLE_STORE_APP_ID,"",true,true,,,,critical,,2018-09-10 20:59:18 UTC,2023-05-12 09:02:19 UTC
+marriottlearnourbrands.com,URL,"",false,false,high,medium,medium,critical,,2023-01-03 19:11:52 UTC,2023-03-01 14:32:36 UTC
+apps.ritzcarlton.com,URL,"",false,false,low,low,low,medium,,2020-05-18 18:29:31 UTC,2023-01-24 12:43:58 UTC
+activities.marriott.com,URL,"",true,true,medium,low,low,high,,2021-07-13 02:50:59 UTC,2023-01-24 12:43:57 UTC
+wechat.api.marriott.com,URL,,true,true,high,high,high,high,,2025-10-27 15:48:07 UTC,2025-10-27 15:48:07 UTC
+all-inclusive.marriott.com,URL,"",true,true,high,high,high,critical,,2021-09-13 16:17:53 UTC,2023-05-12 09:02:19 UTC
+traveler.marriott.com,URL,"",true,true,medium,low,low,high,,2024-03-08 16:59:57 UTC,2024-03-08 16:59:57 UTC
+element-hotels.marriott.com,URL,"
+",false,false,low,none,low,medium,,2022-09-14 13:18:37 UTC,2023-07-24 16:26:35 UTC
+mipartnerprivileges.marriott.com,URL,"",true,true,high,medium,medium,high,,2024-03-08 17:06:01 UTC,2024-03-08 17:06:01 UTC
+bpa2.marriott.com,URL,,true,true,high,high,high,high,,2025-10-27 13:24:42 UTC,2025-10-27 13:24:42 UTC
+editionhotels.com,URL,,true,true,medium,medium,medium,critical,,2021-10-01 23:07:06 UTC,2025-11-05 22:20:01 UTC
+*.phunware.com,URL,"",false,false,,,,critical,,2022-11-09 15:20:53 UTC,2023-01-24 12:43:59 UTC
+ifast.marriott.com,URL,,true,true,high,high,high,high,,2025-10-27 14:58:24 UTC,2025-10-27 14:58:24 UTC
+hotel-development.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:55:14 UTC,2025-10-27 14:55:14 UTC
+passwordchallenge.marriott.com,URL,"This app is used for employees all over marriott to reset their passwords, for new employees to set their first password, and set up challenge questions.",true,true,,,,critical,,2021-09-01 16:07:51 UTC,2023-05-12 09:02:18 UTC
+apcgateway.marriott.com,URL,,true,true,high,high,high,high,,2025-10-24 19:04:52 UTC,2025-10-24 19:04:52 UTC
+prod-mipaasiaasservices.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:35:44 UTC,2025-10-27 14:35:44 UTC
+www.travel-brilliantly.marriott.com,URL,,true,true,medium,medium,medium,medium,,2025-10-27 14:37:39 UTC,2025-10-27 14:37:39 UTC
