@@ -14,3 +14,5 @@ Official scope: https://hackerone.com/marriott/policy_scopes
 - Submission requirements include the affected asset and owner, reproducible proof, remediation, testing dates, public IP address, browser, tools, and app version when applicable.
 
 The maximum severity and bounty eligibility for each asset are in `scope.csv`; a maximum severity is a cap, not a finding. No vulnerability is confirmed by this file.
+
+Disposable inbox service used for the synthetic test account: [Mail.tm](https://mail.tm/). Account credentials stay in the ignored local `.env` file.
